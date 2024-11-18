@@ -1,7 +1,9 @@
 # Pharmacy-Sales-Dashboard
-This Excel-based interactive dashboard provides an overview of a pharmacy company's sales performance segmented by region, top sales representatives, and time period. The dashboard includes filters to enhance data exploration, allowing users to make data-driven decisions.
+This Excel-based interactive dashboard provides an overview of a pharmacy company's sales performance segmented by region, top sales representatives, and time period and a map. The dashboard includes filters to enhance data exploration, allowing users to make data-driven decisions.
 
 ![image](https://github.com/user-attachments/assets/a05e3e60-78e4-450f-b358-e5a393a64874)
+
+![image](https://github.com/user-attachments/assets/699f3305-8ea6-402c-95ed-5c83a11bc0e0)
 
 Features
 
